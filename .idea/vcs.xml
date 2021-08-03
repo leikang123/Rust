@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arrays" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/constant" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/datatype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day10-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day3-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day9-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day9-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day9-4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flow2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flow3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flow4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flow5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flow6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flow7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/guessing_game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello_cargo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/varibles" vcs="Git" />
+  </component>
+</project>
