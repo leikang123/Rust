@@ -17,6 +17,9 @@
       <sourceFolder url="file://$MODULE_DIR$/day14-3/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/day14-4/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/day14/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day16-2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day16-3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day16/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello_cargo/target" />
       <excludeFolder url="file://$MODULE_DIR$/flow7/target" />
@@ -32,6 +35,9 @@
       <excludeFolder url="file://$MODULE_DIR$/day14-2/target" />
       <excludeFolder url="file://$MODULE_DIR$/day14-3/target" />
       <excludeFolder url="file://$MODULE_DIR$/day14-4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/day16/target" />
+      <excludeFolder url="file://$MODULE_DIR$/day16-2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/day16-3/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
