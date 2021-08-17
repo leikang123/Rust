@@ -1,0 +1,38 @@
+﻿1.泛型是一个编程语言不可或缺的机制。
+C++ 语言中用"模板"来实现泛型，而 C 语言中没有泛型的机制，这也导致 C 语言难以构建类型复杂的工程。
+泛型机制是编程语言用于表达类型抽象的机制，一般用于功能确定、数据类型待定的类，如链表、映射表等。
+//
+struct Point<T> {
+    x: T,
+    y: T
+}
+struct Point<T1, T2> {
+    x: T1,
+    y: T2
+}
+在枚举类中表示泛型的方法诸如 Option 和 Result：
+enum Option<T> {
+    Some(T),
+    None,
+}
+
+enum Result<T, E> {
+    Ok(T),
+    Err(E),
+}
+特性
+特性（trait）概念接近于 Java 中的接口（Interface），但两者不完全相同。特性与接口相同的地方在于它们都是一种行为规范，可以用于标识哪些类有哪些方法。
+特性在 Rust 中用 trait 表示：
+trait Descriptive {
+    fn describe(&self) -> String;
+}
+很多情况下我们需要传递一个函数做参数，例如回调函数、设置按钮事件等。在 Java 中函数必须以接口实现的类实例来传递，在 Rust 中可以通过传递特性参数来实现：
+fn output(object: impl Descriptive) {
+    println!("{}", object.describe());
+}
+任何实现了 Descriptive 特性的对象都可以作为这个函数的参数，这个函数没必要了解传入对象有没有其他属性或方法，只需要了解它一定有 Descriptive 特性规范的方法就可以了。当然，此函数内也无法使用其他的属性与方法。
+特性参数还可以用这种等效语法实现：
+fn output<T: Descriptive>(object: T) {
+    println!("{}", object.describe());
+}
+
