@@ -1,0 +1,8 @@
+/Users/mac1094/rust/day17/target/debug/deps/day17-e1ac38f0fe9492c8.rmeta: src/main.rs src/a.rs src/b.rs src/c.rs
+
+/Users/mac1094/rust/day17/target/debug/deps/day17-e1ac38f0fe9492c8.d: src/main.rs src/a.rs src/b.rs src/c.rs
+
+src/main.rs:
+src/a.rs:
+src/b.rs:
+src/c.rs:
