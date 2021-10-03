@@ -6,12 +6,13 @@ struct HouseRoo{
 }
 
 fn main() {
-    // 定义变量名
+    // 创建结构体实力
     let mut houseRoo_1 = HouseRoo{
         houseSize:12,
         hourseName:String::from("dog"),
         hourseColor:String::from("red"),
     };
+    // 创建结构体实力
     let mut houseRoo_2 = HouseRoo{
         houseSize:21,
         hourseName:String::from("padgir"),

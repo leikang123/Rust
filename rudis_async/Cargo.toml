@@ -1,0 +1,14 @@
+[package]
+name = "rudis_async"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = "0.1.13"
+futures = "0.1.25"
+lazy_static ="1.2.0"
+resp ={git ="https://github.com/createivcoder/resp"}
+bytes = "0.4.11"
+

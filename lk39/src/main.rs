@@ -4,6 +4,7 @@ struct Student{
     fale:String,
     score:i64,
 }
+// 定义结构体有两个实力，不知道哪两个，就定义两个变量传递参数
 fn student_stu(w1:Student,w2:Student) -> Student{
     if w1.name == "java"{
     return w1;

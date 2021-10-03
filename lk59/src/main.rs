@@ -39,6 +39,6 @@ fn main() {
     println!("Value of variable a is moved to b.\n b : {}", b);
     println!("Now a becomes invalid.Accessing a will give error");
     
-    //let c = &a;
+   // let c = &a;
     //println!("This is a variable c trying to access value a: {}", c);
   }

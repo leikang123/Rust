@@ -1,5 +1,9 @@
-first_unit_test.rs 
-#[test]
-fn base_test(){
-    assert!(true);
+fn factorial(num: u64) -> u64 {
+  match num {
+      _ => factorial(num - 1) * num,
+  }
+}
+
+fn main() {
+  println!("{} ", factorial(4));
 }
