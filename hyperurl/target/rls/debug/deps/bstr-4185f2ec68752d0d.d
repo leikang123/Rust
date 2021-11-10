@@ -1,0 +1,15 @@
+/Users/mac1094/rust/hyperurl/target/rls/debug/deps/bstr-4185f2ec68752d0d.rmeta: /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/lib.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ascii.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstr.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstring.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/mod.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/scalar.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_slice.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_vec.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/impls.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/io.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/utf8.rs
+
+/Users/mac1094/rust/hyperurl/target/rls/debug/deps/bstr-4185f2ec68752d0d.d: /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/lib.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ascii.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstr.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstring.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/mod.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/scalar.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_slice.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_vec.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/impls.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/io.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/utf8.rs
+
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/lib.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ascii.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstr.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstring.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/mod.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/scalar.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_slice.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_vec.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/impls.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/io.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/utf8.rs:

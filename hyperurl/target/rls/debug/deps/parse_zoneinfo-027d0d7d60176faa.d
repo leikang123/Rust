@@ -1,0 +1,11 @@
+/Users/mac1094/rust/hyperurl/target/rls/debug/deps/parse_zoneinfo-027d0d7d60176faa.rmeta: /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/lib.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/line.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/structure.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/table.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/transitions.rs
+
+/Users/mac1094/rust/hyperurl/target/rls/debug/deps/libparse_zoneinfo-027d0d7d60176faa.rlib: /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/lib.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/line.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/structure.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/table.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/transitions.rs
+
+/Users/mac1094/rust/hyperurl/target/rls/debug/deps/parse_zoneinfo-027d0d7d60176faa.d: /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/lib.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/line.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/structure.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/table.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/transitions.rs
+
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/lib.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/line.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/structure.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/table.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/parse-zoneinfo-0.3.0/src/transitions.rs:

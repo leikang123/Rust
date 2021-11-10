@@ -1,0 +1,12 @@
+/Users/mac1094/rust/hyperurl/target/debug/deps/httparse-dafd8d45986a2ad9.rmeta: /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/lib.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/iter.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/macros.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/mod.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/sse42.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/avx2.rs
+
+/Users/mac1094/rust/hyperurl/target/debug/deps/libhttparse-dafd8d45986a2ad9.rlib: /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/lib.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/iter.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/macros.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/mod.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/sse42.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/avx2.rs
+
+/Users/mac1094/rust/hyperurl/target/debug/deps/httparse-dafd8d45986a2ad9.d: /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/lib.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/iter.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/macros.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/mod.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/sse42.rs /Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/avx2.rs
+
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/lib.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/iter.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/macros.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/mod.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/sse42.rs:
+/Users/mac1094/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.5.1/src/simd/avx2.rs:
