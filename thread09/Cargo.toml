@@ -2,7 +2,14 @@
 name = "thread09"
 version = "0.1.0"
 edition = "2018"
+authors =["leikang"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+[profile.release]
+debug = true
+rand = "0.5.5"
+slog = "2.4.1"
+slog-async = "2.3.0"
+slog-json = "2.2.0"
