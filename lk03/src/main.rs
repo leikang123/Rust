@@ -1,3 +1,4 @@
+// 定义函数reser(),带有参数mut arr:[] 定义可写数组arr,arr数组类型为u32,5个元素
 fn reser(mut arr:[u32;5]){
 
     arr [0] =1;
