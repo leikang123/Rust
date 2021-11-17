@@ -1,5 +1,6 @@
 use std::{thread,time::Duration};
 fn main() {
+    // 调用无参数闭包
     thread::spawn(||{
         for i in 1 ..10 {
             println!("hi number {} from the spawed thread ",i);

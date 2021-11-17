@@ -6,6 +6,7 @@ fn main() {
    let _child = thread::spawn(|| {
         println!("Thread!");
        // "Mush concurent, sush wow!".to_string()
+       // 语句不打印
        String::from("Mush concurrent,sush wow!")
 
     });
