@@ -1,0 +1,1 @@
+/Users/mac1094/rust/lkrust/target/package/lkrust-0.1.2/target/debug/efern: /Users/mac1094/rust/lkrust/target/package/lkrust-0.1.2/src/bin/efern.rs /Users/mac1094/rust/lkrust/target/package/lkrust-0.1.2/src/lib.rs

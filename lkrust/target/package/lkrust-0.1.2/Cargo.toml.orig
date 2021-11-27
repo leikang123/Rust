@@ -1,0 +1,15 @@
+[package]
+name = "lkrust"
+version = "0.1.2"
+edition = "2018"
+authors = ["leikang <1013626230@qq.com>"]
+license = "MIT"
+homepage = "https://lkrust.example.com/"
+repository = "https://gitlair.com/sporeador/lkrust"
+documentation = "http://lkrust.example.com/docs"
+description = """ Fern simualtion, from the cellular up """
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
