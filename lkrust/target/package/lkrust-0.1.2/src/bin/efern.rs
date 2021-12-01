@@ -1,6 +1,6 @@
 extern crate lkrust;
 use lkrust::{Ash,run_simulation};
-// #[allow(dead_code)]
+  #[allow(dead_code)]
 fn main(){
     let mut  fern =Ash{
         size:1.0,
