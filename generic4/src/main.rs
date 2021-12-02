@@ -10,6 +10,7 @@ trait PerPage{
         println!("Per Page default:10");
     }
 }
+// 添加其功能
 trait pageinate:Page+PerPage{
 fn set_skip_page(&self,num:i32){
     println!("Skip page:{:?}",num)
