@@ -3,12 +3,12 @@ use std :: thread;
 use std :: env;
 use std :: sync::Mutex;
 use std :: collections::HashMap;
-use std ::modules::commands;
 use std :: io ::{BufReader,Write};
 use std :: net :: Shutdown;
 use std :: net ::{TcpListener,TcpStream};
 use resp :: Decoder;
 use lazy_static::lazy_static;
+
 mod commands;
     use crate::commands::process_client_request;
 type STORE = Mutex<HashMap<String, String>>;
