@@ -1,4 +1,5 @@
 fn main() {
+    #[derive(Copy,Clone,Debug,PartialEq)]
     // 枚举类
     enum Book {
         // 种类{ 属性}
