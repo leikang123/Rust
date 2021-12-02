@@ -1,5 +1,5 @@
 #![allow(dead_code)] 
-struct Course{
+pub struct Course{
    name: String,
    id : i32,
 }

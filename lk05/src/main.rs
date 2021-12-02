@@ -5,4 +5,5 @@ fn main() {
     g_map.insert("xdd",23);
     g_map.insert("kki", 12);
     let str = g_map.get("kki");
-    print!("is {:?}",str);
+    println!("is {:?}",str);
+}
