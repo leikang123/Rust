@@ -11,8 +11,11 @@ fn main(){
     let arr:[u32;5]= [1,2,3,4,5];
     reser(arr);
     print!("is {:?}",arr);
+    let a = [3;9];
+    for i in a.iter(){
+        println!("{:?}",i)
+    }
 }
-
 
 
 
