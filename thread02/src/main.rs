@@ -1,15 +1,27 @@
 
 use std::thread;
 
+use std ::time::Duration;
 fn main() {
-    //调用thread的spaw函数模块，必包参数，单独线程为子线程
-   let _child = thread::spawn(|| {
-        println!("Thread!");
-       // "Mush concurent, sush wow!".to_string()
-       // 语句不打印
-       String::from("Mush concurrent,sush wow!")
+    let x_thread = thread::spawn(move || {
+        for i in 1..5{
+            println!(" number is {} thread_1",i);
+            thread::sleep(Duration::from_secs(1))
+        }
+    });
+    let x_thread_2 = thread::spawn(move || {
+        for i in 1..5{
+            println!("numnber is {} thread_2" ,i);
+            thread::sleep(Duration::from_secs(1));
+        }
 
     });
-    // 先执行主线程，后执行子线程
-    println!("Hello, world!");
+    x_thread.join().unwrap();
+    x_thread_2.join().unwrap();
+
+    for i in 1..5 {
+        println!(" number is {} main thread",i);
+        thread::sleep(Duration::from_secs(1));
+
+}
 }

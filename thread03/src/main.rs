@@ -1,14 +1,10 @@
 use std::thread;
-
+use std::fmt::Display;
 fn main() {
+    let v = vec![1,2,3,4,5];
     // 调用thread函数spawn模块
-    let _child = thread::spawn(||{
-        println!("thread01");
-        String::from("Mush consush,shu wow!")
-
+    let child_1= thread::spawn(move ||{
+        println!("{:?}",v);
     });
-    println!("Hello, world!");
-    // 用child变量的线程调用join方法，expect获取调用join的结果方法
-    let _value = _child.join().expect("");
-    println!("{}",_value);
+   child_1.join().unwrap();
 }
