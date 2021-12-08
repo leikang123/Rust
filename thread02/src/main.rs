@@ -16,6 +16,7 @@ fn main() {
         }
 
     });
+    // join阻塞主线程的方法之一
     x_thread.join().unwrap();
     x_thread_2.join().unwrap();
 
