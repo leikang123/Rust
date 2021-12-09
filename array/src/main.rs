@@ -23,12 +23,8 @@ fn main() {
     v2.push(23);
     v2.push(12);
     println!("v2:{:?}",v2);
-    // 创建的数组后面空的
-    /// let mut v3 = vec![];
-    // 创建数组为123
-    let mut v4 = vec![1,2,3];
-    // 创建数组6个，元素初始值是2
-    let mut v5 = vec![2;6];
+    v2.pop();
+    println!("v2:{:?}",v2);
 
 
 }
