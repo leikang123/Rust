@@ -25,6 +25,8 @@ fn main() {
     println!("v2:{:?}",v2);
     v2.pop();
     println!("v2:{:?}",v2);
+    v2.remove(v2[2]);
+    println!("v3:{:?}",v2);
 
 
 }
