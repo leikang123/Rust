@@ -4,7 +4,7 @@ trait T {
     fn method2(self: &Self);
     fn method3(self: &mut Self);
 }
-trait T2{
+trait T2 {
     // 直接省略变量名，写类型
     fn method4(Self);
     fn method05(&Self);
@@ -13,19 +13,19 @@ trait T2{
 }
 // 定义一个trait函数和里面的方法
 trait Share{
-    fn area(self:&Self) ->i64;
+    fn area(self:&Self) ->f64;
 
 }
 // 定义一个结构体函数实现trait的函数体
 struct C{
-    rad:i64,
+    rad:f64,
 }
 // 实现这个trait函数
 impl Share for C{
     // trait函数的方法重写
-    fn area(self: &Self) -> i64 {
+    fn area(self: &Self) ->f64 {
         // self调用变量
-        std::f64::consts::PI * self.rad * self.rad;
+        return std::f64::consts::PI * self.rad * self.rad;
     }
 }
 

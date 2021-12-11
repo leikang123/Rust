@@ -1,3 +1,5 @@
+
+// trait类型
 trait doubt {
     fn dou(&self) -> Self;
 }
