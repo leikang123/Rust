@@ -11,6 +11,7 @@ fn main() {
         let panic =time::Duration::from_millis(100);
         thread::sleep(panic.clone());  
     });
+    //
     handle.join().unwrap();
     let finsh = time::Instant::now();
     println!("{:02?}",finsh.duration_since(start));
