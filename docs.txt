@@ -1,2 +1,8 @@
 create docs explain rust code 
 code spce 
+###
+areray 
+function
+string
+match
+
